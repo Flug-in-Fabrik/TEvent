@@ -1,2 +1,8 @@
 # TEvent
-이벤트용 공지 알림 플러그인입니다.
+/이벤트 공지
+
+# License
+해당 플러그인 (TEvent)은 Fabrik-EULA에 의해 보호됩니다.
+
+
+Fabrik-EULA : https://github.com/Flug-in-Fabrik/Fabrik-EULA
